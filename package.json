@@ -1,6 +1,6 @@
 {
-  "name": "react-highcharts",
-  "version": "8.2.0",
+  "name": "lalitkapoor-react-highcharts",
+  "version": "8.2.1",
   "description": "React wrapper for highcharts",
   "main": "dist/ReactHighcharts.js",
   "scripts": {
