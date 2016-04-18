@@ -1,1 +1,1 @@
-module.exports = require('./chartsFactory.jsx')('Chart', require("highcharts"));
+module.exports = require('./chartsFactory.jsx')('Chart', global.Highcharts || require("highcharts"));
